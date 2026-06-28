@@ -1,19 +1,19 @@
 # Fatemeh Sabourinia 
 
 ### AI Engineer | Machine Learning Engineer | Data Scientist | Android Developer
-I develop AI-powered solutions with a focus on Machine Learning, Computer Vision, Data Science, and Android development.
+I specialize in designing and developing intelligent systems using Machine Learning, Deep Learning, Computer Vision, Data Science, and Android technologies.
 
-My work combines research and software engineering to transform machine learning models into practical, real-world AI solutions.
+My experience includes developing deep learning models, building end-to-end machine learning pipelines, deploying AI solutions on Android devices, and conducting research in in AI and machine learning. I enjoy transforming research ideas into scalable, practical applications that solve real-world problems.
 
 ---
 
 ## Focus Areas
 - Artificial Intelligence
 - Machine Learning
-- Computer Vision
 - Deep Learning
-- Mobile AI
+- Computer Vision
 - Data Science
+- Mobile AI
 - Android Development
 
   ---
@@ -74,14 +74,14 @@ An explainable AI framework for ADHD classification that emphasizes model transp
 - Hyperparameter Optimization
 - Cross Validation
 - Model Interpretation
-- 
+  
 ---
 
-## Published Android Applications
-Applications available on Google Play.
+## Mobile Applications
+Android applications published on Google Play.
 
 ### FlowerApp
-An AI-powered flower recognition application for identifying flower species using deep learning and computer vision.
+An intelligent flower recognition application that classifies flower species from images using deep learning and computer vision technologies.
 
 [View on Google Play](https://play.google.com/store/apps/details?id=com.zaeri.sabourinia.flowerapp)
 
@@ -110,30 +110,48 @@ An AI-powered application for recognizing dog breeds from images using deep lear
 
 ### AI & Machine Learning
 - TensorFlow
-- TensorFlow Lite
 - Keras
-- Pytorch
+- TensorFlow Lite
+- PyTorch
 - Scikit-learn
 - OpenCV
 
-**Data Science**
+### Deep Learning Architectures
+- VGG16
+- NASNet-Mobile
+- MobileNetV2
+- EfficientNetB0
+  
+### Machine Learning Models
+- Gradient Boosting
+- Logistic Regression
+- Random Forest
+- CatBoost
+- XGBoost
+- LightGBM
+
+### Data Science
 - Pandas
 - NumPy
 - Matplotlib
 - Plotly
 
 ### Development Tools
+- Git & GitHub
+- Jupyter Notebook
 - Android Studio
-- Git
-- GitHub
-- Jetpack Compose
+- Visual Studio Code
 
 ---
 
 ## Connect with Me
-- LinkedIn (Coming Soon)
-- Google Play Developer Profile
+
+I welcome opportunities for research collaboration, AI projects, professional networking, and software engineering discussions.
+
+For collaboration opportunities, research discussions, or support regarding my Android applications, feel free to get in touch.
+
+- **Email:** dogbreedidentifier1995@gmail.com
+- **Google Play Developer Profile:** [Published Android Applications](https://play.google.com/store/apps/developer?id=Alireza+Zaeri+%26+Fatemeh+Sabourinia)
+- **LinkedIn:** Coming Soon
 
 ---
-
-Thank you for visiting my GitHub profile!
