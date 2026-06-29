@@ -46,35 +46,35 @@ An AI-powered dog breed classification system designed to accurately identify do
 A machine learning framework for ADHD classification using neuroimaging and demographic data. This project evaluates multiple traditional machine learning algorithms to identify the most effective approach for ADHD prediction.
 
 **Models Evaluated**
+- CatBoost
+- Gradient Boosting
 - Logistic Regression
 - Random Forest
-- Gradient Boosting
-- CatBoost
 
 **Key Techniques**
 - Hyperparameter Optimization
-- Cross Validation
-- Model Evaluation
 - Fairness & Bias Analysis
+- Model Evaluation
+- Cross Validation
 
 ---
 
-## ADHD Classification using Explainable AI
+## Interpretable Machine Learning for ADHD Classification
 An explainable AI framework for ADHD classification that emphasizes model transparency and interpretability while maintaining predictive performance.
 
 **Models Evaluated**
-- Logistic Regression
-- Random Forest
 - XGBoost
 - LightGBM
+- Random Forest
+- Logistic Regression
 
 **Key Techniques**
-- Kernel PCA
-- SHAP Explainability
 - Hyperparameter Optimization
-- Cross Validation
+- SHAP Explainability
 - Model Interpretation
-  
+- Cross Validation
+- Kernel PCA
+    
 ---
 
 ## Mobile Applications
