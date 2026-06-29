@@ -77,7 +77,7 @@ An explainable AI framework for ADHD classification that emphasizes model transp
     
 ---
 
-## Mobile Applications
+## Android AI Applications
 Android applications published on Google Play.
 
 ### FlowerApp
@@ -136,6 +136,10 @@ An AI-powered application for recognizing dog breeds from images using deep lear
 - Matplotlib
 - Plotly
 
+### Backend & Database
+- Laravel
+- Microsoft SQL Server
+
 ### Development Tools
 - Git & GitHub
 - Jupyter Notebook
@@ -148,10 +152,10 @@ An AI-powered application for recognizing dog breeds from images using deep lear
 
 I welcome opportunities for research collaboration, AI projects, professional networking, and software engineering discussions.
 
-For collaboration opportunities, research discussions, or support regarding my Android applications, feel free to get in touch.
+If you're interested in AI, Machine Learning, research collaboration, software development, or have questions about my AI applications, I'd be happy to hear from you.
 
 - **Email:** dogbreedidentifier1995@gmail.com
-- **Google Play Developer Profile:** [Published Android Applications](https://play.google.com/store/apps/developer?id=Alireza+Zaeri+%26+Fatemeh+Sabourinia)
+- **Google Play Developer Account:** [My AI-Powered Applications](https://play.google.com/store/apps/developer?id=Alireza+Zaeri+%26+Fatemeh+Sabourinia)
 - **LinkedIn:** Coming Soon
 
 ---
