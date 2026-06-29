@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" alt="Fatemeh Sabourinia GitHub Banner" width="100%">
+  <img src="Fatemeh.png" alt="Fatemeh Sabourinia GitHub Banner" width="100%">
 </p>
 
 # Fatemeh Sabourinia 
