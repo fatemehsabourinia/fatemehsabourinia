@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Fatemeh.png" alt="Fatemeh Sabourinia GitHub Banner" width="100%">
+</p>
+
 # Fatemeh Sabourinia 
 
 ### AI Engineer | Machine Learning Engineer | Data Scientist | Android Developer
