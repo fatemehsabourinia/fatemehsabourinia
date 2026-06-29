@@ -3,7 +3,7 @@
 ### AI Engineer | Machine Learning Engineer | Data Scientist | Android Developer
 I specialize in designing and developing intelligent systems using Machine Learning, Deep Learning, Computer Vision, Data Science, and Android technologies.
 
-My experience includes developing deep learning models, building end-to-end machine learning pipelines, deploying AI solutions on Android devices, and conducting research in in AI and machine learning. I enjoy transforming research ideas into scalable, practical applications that solve real-world problems.
+My experience includes developing deep learning models, building end-to-end machine learning pipelines, deploying AI solutions on Android devices, and conducting research in AI and machine learning. I enjoy transforming research ideas into scalable, practical applications that solve real-world problems.
 
 ---
 
@@ -141,7 +141,8 @@ An AI-powered application for recognizing dog breeds from images using deep lear
 - Microsoft SQL Server
 
 ### Development Tools
-- Git & GitHub
+- Git
+- GitHub
 - Jupyter Notebook
 - Android Studio
 - Visual Studio Code
@@ -150,9 +151,9 @@ An AI-powered application for recognizing dog breeds from images using deep lear
 
 ## Connect with Me
 
-I welcome opportunities for research collaboration, AI projects, professional networking, and software engineering discussions.
+I welcome opportunities for research collaboration, AI and Machine Learning projects, professional networking, and software engineering discussions.
 
-If you're interested in AI, Machine Learning, research collaboration, software development, or have questions about my AI applications, I'd be happy to hear from you.
+Whether you'd like to discuss AI, explore collaboration opportunities, inquire about my research, or need support for my AI applications, feel free to get in touch.
 
 - **Email:** dogbreedidentifier1995@gmail.com
 - **Google Play Developer Account:** [My AI-Powered Applications](https://play.google.com/store/apps/developer?id=Alireza+Zaeri+%26+Fatemeh+Sabourinia)
