@@ -21,7 +21,7 @@ My experience includes developing deep learning models, building end-to-end mach
 ## Featured Projects
 
 ### Flower Recognition
-An end-to-end AI system for flower species recognition, developed using deep learning and computer vision techniques. The project covers model development, comparative evaluation, TensorFlow Lite optimization, and Android deployment.
+An end-to-end AI system for flower species recognition, developed using deep learning and computer vision techniques. The project covers model development and comparative evaluation.
 
 **Models Evaluated**
 - XGBoost
@@ -32,7 +32,7 @@ An end-to-end AI system for flower species recognition, developed using deep lea
 ---
 
 ### Dog Breed Recognition
-An AI-powered dog breed classification system designed to accurately identify dog breeds from images using deep learning models optimized for mobile deployment.
+An AI-powered dog breed classification system designed to accurately identify dog breeds from images using deep learning models.
 
 **Models Evaluated**
 - Random Forest
