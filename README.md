@@ -63,7 +63,7 @@ A machine learning framework for ADHD classification using neuroimaging and demo
 
 ---
 
-## Interpretable Machine Learning for ADHD Classification
+## Explainable AI for ADHD
 An explainable AI framework for ADHD classification that emphasizes model transparency and interpretability while maintaining predictive performance.
 
 **Models Evaluated**
