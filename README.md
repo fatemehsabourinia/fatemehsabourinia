@@ -9,6 +9,10 @@ I specialize in designing and developing intelligent systems using Machine Learn
 
 My experience includes developing deep learning models, building end-to-end machine learning pipelines, deploying AI solutions on Android devices, and conducting research in AI and machine learning. I enjoy transforming research ideas into scalable, practical applications that solve real-world problems.
 
+## Portfolio Website
+
+[View My Portfolio Website](https://fatemehsabourinia.github.io/)
+
 ---
 
 ## Focus Areas
@@ -24,7 +28,7 @@ My experience includes developing deep learning models, building end-to-end mach
   
 ## Featured Projects
 
-### Flower Recognition
+### [Flower Classification](https://github.com/fatemehsabourinia/Flower-Classification)
 An end-to-end AI system for flower species recognition, developed using deep learning and computer vision techniques. The project covers model development and comparative evaluation.
 
 **Models Evaluated**
@@ -35,7 +39,7 @@ An end-to-end AI system for flower species recognition, developed using deep lea
   
 ---
 
-### Dog Breed Recognition
+### [Dog Breed Recognition](https://github.com/fatemehsabourinia/Dog-Breed-Recognition)
 An AI-powered dog breed classification system designed to accurately identify dog breeds from images using deep learning models.
 
 **Models Evaluated**
@@ -46,7 +50,7 @@ An AI-powered dog breed classification system designed to accurately identify do
 
 ---
 
-## ADHD Classification using Traditional Machine Learning
+## [ADHD Data Science & Machine Learning](https://github.com/fatemehsabourinia/ADHD-Data-Science-ML)
 A machine learning framework for ADHD classification using neuroimaging and demographic data. This project evaluates multiple traditional machine learning algorithms to identify the most effective approach for ADHD prediction.
 
 **Models Evaluated**
@@ -63,7 +67,7 @@ A machine learning framework for ADHD classification using neuroimaging and demo
 
 ---
 
-## Explainable AI for ADHD
+## [ADHD Explainable AI](https://github.com/fatemehsabourinia/ADHD-Explainable-AI)
 An explainable AI framework for ADHD classification that emphasizes model transparency and interpretability while maintaining predictive performance.
 
 **Models Evaluated**
@@ -84,14 +88,14 @@ An explainable AI framework for ADHD classification that emphasizes model transp
 ## Android AI Applications
 Android applications published on Google Play.
 
-### FlowerApp
+### [FlowerApp](https://github.com/fatemehsabourinia/FlowerApp-Android)
 An intelligent flower recognition application that classifies flower species from images using deep learning and computer vision technologies.
 
 [View on Google Play](https://play.google.com/store/apps/details?id=com.zaeri.sabourinia.flowerapp)
 
 ---
 
-### Dog Breed Identifier
+### [Dog Breed Identifier](https://github.com/fatemehsabourinia/Dog-Breed-Identifier-Android)
 An AI-powered application for recognizing dog breeds from images using deep learning and computer vision.
 
 [View on Google Play](https://play.google.com/store/apps/details?id=com.zaeri.sabourinia.dogbreedidentifier)
@@ -161,6 +165,7 @@ Whether you'd like to discuss AI, explore collaboration opportunities, inquire a
 
 - **Email:** dogbreedidentifier1995@gmail.com
 - **Google Play Developer Account:** [My AI-Powered Applications](https://play.google.com/store/apps/developer?id=Alireza+Zaeri+%26+Fatemeh+Sabourinia)
-- **LinkedIn:** Coming Soon
+- **LinkedIn:** [linkedin.com/in/fatemehsabourinia](https://www.linkedin.com/in/fatemehsabourinia/)
+- **Portfolio:** [fatemehsabourinia.github.io](https://fatemehsabourinia.github.io/)
 
 ---
